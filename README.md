@@ -2,22 +2,6 @@
 ![image](https://user-images.githubusercontent.com/94780400/144739357-7e49fdf1-1bd3-413f-8ed2-df4a2111ccea.png)
 NAME: DO THE VINH 	 
  
-ID: GCH17230 
- 
-TEACHER NAME: NGUYEN KHANH TUNG. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 ASSIGMENT NAME: NETWORKING. 
 Contents 
 The principles of networking and protocols	2 
